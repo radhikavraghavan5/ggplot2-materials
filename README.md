@@ -21,8 +21,8 @@ Selected Presentations on {ggplot2}
 
 Helpful Resources
 -----------------
-Open-Access Books:
-------------------
+- Open-Access Books:
+-------------------
 
 [“ggplot2: Elegant Graphics for Data Analysis”]([https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires](https://ggplot2-book.org/)) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
 
@@ -34,10 +34,18 @@ Open-Access Books:
 
 [“Analyzing US Census Data: Methods, Maps, and Models in R”](https://walker-data.com/census-r/) by Kyle Walker
 
+
+- Galleries:
+------------
+
 [ggplot2 Extension Gallery](https://exts.ggplot2.tidyverse.org/gallery/)
+
 [R Graph Gallery](https://www.r-graph-gallery.com/)
+
 [Color Palettes in R](https://github.com/EmilHvitfeldt/r-color-palettes/) (unofrtunately quite outdated by now)
+
 #TidyTuesday Community: [#TidyTuesday on Twitter](https://twitter.com/hashtag/tidytuesday?lang=en)
+
 #TidyTuesday Collection: [tidytuesday.rocks](http://tidytuesday.rocks/)
 
 
