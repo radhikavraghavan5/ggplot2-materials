@@ -21,6 +21,7 @@ Selected Presentations on {ggplot2}
 
 Helpful Resources
 -----------------
+
 - Open-Access Books:
 -------------------
 
@@ -33,6 +34,7 @@ Helpful Resources
 [“R Graphics Cookbook”](https://r-graphics.org/) by Winston Chang
 
 [“Analyzing US Census Data: Methods, Maps, and Models in R”](https://walker-data.com/census-r/) by Kyle Walker
+
 
 
 - Galleries:
