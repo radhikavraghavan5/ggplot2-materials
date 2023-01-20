@@ -1,25 +1,29 @@
-# ggplot2-materials
+# {ggplot2} Materials
 👨‍🏫 Collection of personal material and additional resources for the R package {ggplot2}
+  
   
 
 Selected Presentations on {ggplot2}
 -----------------------------------
-“ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R” — Outlier Conference 2021 hosted by the Data Visualization Society (Talk + Seminar)
-Slides | Recording | Hands-On Tutorial
-“ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R (Extended Version)” — useR Oslo 03|2021
-Slides | Recording
-“Beyond bar and box plots: chart alternatives and how to design them with ggplot2” — USGS Community for Data Integration 09|2021
-Slides | Recording | Hands-On Tutorial
-“My favorite ggplot2 extension packages” — R Ladies Tunis 07|2021
-Slides | Recording
-“#30DayMapChallenge: The good, the bad and the ugly of crafting maps with ggplot2” — R Ladies Bangalore 12|2021
-Slides | Recording
+- **“ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R”** — Outlier Conference 2021 hosted by the Data Visualization Society (Talk + Seminar)
+[Slides](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)  | [Recording](https://youtu.be/7UjA_5gNvdw) | [Hands-On Tutorial](https://z3tt.github.io/OutlierConf2021/)
+
+- **“Beyond bar and box plots: chart alternatives and how to design them with ggplot2”** — USGS Community for Data Integration 09|2021
+[Slides](https://www.cedricscherer.com/slides/USGS-2021-beyond-bar-and-box-plots.pdf) | [Recording](https://www.youtube.com/watch?v=WBA04fjTVU0) | [Hands-On Tutorial](https://z3tt.github.io/beyond-bar-and-box-plots)
+
+- **“My favorite ggplot2 extension packages”** — R Ladies Tunis 07|2021
+[Slides](https://www.cedricscherer.com/slides/RLadiesTunis-2021-favorite-ggplot-extensions.pdf)  | [Recording](https://youtu.be/8ikFe82Mb1I)
+
+- **“#30DayMapChallenge: The good, the bad and the ugly of crafting maps with ggplot2”** — R Ladies Bangalore 12|2021
+[Slides](https://www.cedricscherer.com/slides/RladiesBangalore_30DayMapChallenge.pdf)  | [Recording](https://drive.google.com/file/d/1RU37oUE_7BHCkKzASC-I9R2-SMIjKAKT/view?usp=sharing)
+
 
 Selected Blog Posts about {ggplot2}
-“A {ggplot2} Tutorial for Beautiful Plotting in R” — Extensive "How to"-tutorial based on a version from 2016 by Zev Ross
+-----------------------------------
+**[“A {ggplot2} Tutorial for Beautiful Plotting in R”](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)** — Extensive "How to"-tutorial based on a version from 2016 by Zev Ross
 “The Evolution of a ggplot (Part 1)” — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
-“Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)” — Tutorial illustrating why raincloud plots are great and numerous ways how to create such hybrid charts with {ggplot2}
-“A Quick How-to on Labelling Bar Graphs in ggplot2” — Blog poston how one can add percentage labels inside bar plots and how to highlight specific bars with {ggplot2}
+**“Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)”** — Tutorial illustrating why raincloud plots are great and numerous ways how to create such hybrid charts with {ggplot2}
+**“A Quick How-to on Labelling Bar Graphs in ggplot2”** — Blog poston how one can add percentage labels inside bar plots and how to highlight specific bars with {ggplot2}
 
 
 
