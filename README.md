@@ -58,16 +58,20 @@ Workshops/Tutorials:
 “BBC Visual and Data Journalism cookbook for R graphics”
 “Data Visualization with R” by Rob Kabacoff
 “Themes to Improve Your ggplot Figures” by R for the Rest of Us
-Get Help:
 
+
+Get Help:
+---------
 Official ggplot2 reference
 Official ggplot2 cheatsheet
 RStudio Community
 R4DS Learning Community
 aesthetics finder
-Useful Packages (alphabetically):
 
-{cowplot} — plot arrangements, themes & annotations
+
+Useful Packages (alphabetically):
+----------------------------------
+`{cowplot}` — plot arrangements, themes & annotations
 {ggalt} — alternative coords, geoms, stats & scales
 {gganimate} — create animations
 {ggbump} — geoms for bump charts
