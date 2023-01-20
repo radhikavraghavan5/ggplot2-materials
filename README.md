@@ -25,18 +25,24 @@ Open-Access Books:
 ------------------
 
 [“ggplot2: Elegant Graphics for Data Analysis”]([https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires](https://ggplot2-book.org/)) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
+
 [“R for Data Science”](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
+
 [“Data Visualization: A Practical Introduction”](https://socviz.co/) by Kieran Healy
+
 [“R Graphics Cookbook”](https://r-graphics.org/) by Winston Chang
+
 [“Analyzing US Census Data: Methods, Maps, and Models in R”](https://walker-data.com/census-r/) by Kyle Walker
 
 [ggplot2 Extension Gallery](https://exts.ggplot2.tidyverse.org/gallery/)
-R Graph Gallery
-Color Palettes in R (unofrtunately quite outdated by now)
-#TidyTuesday Community: #TidyTuesday on Twitter
-#TidyTuesday Collection: tidytuesday.rocks
-Workshops/Tutorials:
+[R Graph Gallery](https://www.r-graph-gallery.com/)
+[Color Palettes in R](https://github.com/EmilHvitfeldt/r-color-palettes/) (unofrtunately quite outdated by now)
+#TidyTuesday Community: [#TidyTuesday on Twitter](https://twitter.com/hashtag/tidytuesday?lang=en)
+#TidyTuesday Collection: [tidytuesday.rocks](http://tidytuesday.rocks/)
 
+
+Workshops/Tutorials:
+--------------------
 “SDS 375: Data Visualization in R” by Claus Wilke — Lectures for the Spring 2021 semester
 “Data Visualization in R” by Brooke Anderson — Workshop for the 2019 Navy and Marine Corps Public Health Conference
 “BBC Visual and Data Journalism cookbook for R graphics”
