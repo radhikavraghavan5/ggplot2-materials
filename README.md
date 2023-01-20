@@ -1,13 +1,9 @@
 # ggplot2-materials
-Collection of personal material and additional resources for the R package {ggplot2}
-
-
- 👨‍🏫 {ggplot2} Teaching Material   
-
-Collection of personal material and additional resources for the R package {ggplot2}.
-
+👨‍🏫 Collection of personal material and additional resources for the R package {ggplot2}
+  
 
 Selected Presentations on {ggplot2}
+-----------------------------------
 “ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R” — Outlier Conference 2021 hosted by the Data Visualization Society (Talk + Seminar)
 Slides | Recording | Hands-On Tutorial
 “ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R (Extended Version)” — useR Oslo 03|2021
