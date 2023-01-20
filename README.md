@@ -25,7 +25,7 @@ Helpful Resources
 - Open-Access Books:
 -------------------
 
-[“ggplot2: Elegant Graphics for Data Analysis”](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires](https://ggplot2-book.org/) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
+[“ggplot2: Elegant Graphics for Data Analysis”](https://ggplot2-book.org/) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
 
 [“R for Data Science”](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
 
