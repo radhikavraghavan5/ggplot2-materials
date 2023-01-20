@@ -17,27 +17,20 @@ Selected Presentations on {ggplot2}
 - **“#30DayMapChallenge: The good, the bad and the ugly of crafting maps with ggplot2”** — R Ladies Bangalore 12|2021
 [Slides](https://www.cedricscherer.com/slides/RladiesBangalore_30DayMapChallenge.pdf)  | [Recording](https://drive.google.com/file/d/1RU37oUE_7BHCkKzASC-I9R2-SMIjKAKT/view?usp=sharing)
 
-
-Selected Blog Posts about {ggplot2}
------------------------------------
-**[“A {ggplot2} Tutorial for Beautiful Plotting in R”](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)** — Extensive "How to"-tutorial based on a version from 2016 by Zev Ross
-“The Evolution of a ggplot (Part 1)” — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
-**“Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)”** — Tutorial illustrating why raincloud plots are great and numerous ways how to create such hybrid charts with {ggplot2}
-**“A Quick How-to on Labelling Bar Graphs in ggplot2”** — Blog poston how one can add percentage labels inside bar plots and how to highlight specific bars with {ggplot2}
-
-
+-------------------------
 
 Helpful Resources
+-----------------
 Open-Access Books:
+------------------
 
-“ggplot2: Elegant Graphics for Data Analysis” by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
-“R for Data Science” by Hadley Wickham and Garrett Grolemund
-“Data Visualization: A Practical Introduction” by Kieran Healy
-“R Graphics Cookbook” by Winston Chang
-“Analyzing US Census Data: Methods, Maps, and Models in R” by Kyle Walker
-Galleries:
+[“ggplot2: Elegant Graphics for Data Analysis”]([https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires](https://ggplot2-book.org/)) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
+[“R for Data Science”](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
+[“Data Visualization: A Practical Introduction”](https://socviz.co/) by Kieran Healy
+[“R Graphics Cookbook”](https://r-graphics.org/) by Winston Chang
+[“Analyzing US Census Data: Methods, Maps, and Models in R”](https://walker-data.com/census-r/) by Kyle Walker
 
-ggplot2 Extension Gallery
+[ggplot2 Extension Gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 R Graph Gallery
 Color Palettes in R (unofrtunately quite outdated by now)
 #TidyTuesday Community: #TidyTuesday on Twitter
