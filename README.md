@@ -51,43 +51,57 @@ Helpful Resources
 #TidyTuesday Collection: [tidytuesday.rocks](http://tidytuesday.rocks/)
 
 
-Workshops/Tutorials:
---------------------
-“SDS 375: Data Visualization in R” by Claus Wilke — Lectures for the Spring 2021 semester
-“Data Visualization in R” by Brooke Anderson — Workshop for the 2019 Navy and Marine Corps Public Health Conference
-“BBC Visual and Data Journalism cookbook for R graphics”
-“Data Visualization with R” by Rob Kabacoff
-“Themes to Improve Your ggplot Figures” by R for the Rest of Us
-
-
-Get Help:
+Help resources:
 ---------
-Official ggplot2 reference
-Official ggplot2 cheatsheet
-RStudio Community
-R4DS Learning Community
-aesthetics finder
+[Official ggplot2 reference](https://ggplot2.tidyverse.org/reference/)
+
+[Official ggplot2 cheatsheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
+
+[RStudio Community](https://community.rstudio.com/)
+
+[R4DS Learning Community](https://www.rfordatasci.com/)
+
+[aesthetics finder](https://ggplot2tor.com/aesthetics/)
 
 
 Useful Packages (alphabetically):
 ----------------------------------
 `{cowplot}` — plot arrangements, themes & annotations
-{ggalt} — alternative coords, geoms, stats & scales
-{gganimate} — create animations
-{ggbump} — geoms for bump charts
-{ggforce} — several interesting add-on features
-{ggiraph} — geoms for dynamic, interactive visualizations
-{ggmaps} — access to Google & Stamen maps
-{ggplotly} — create interactive plots
-{ggraph} — networks, graphs & trees
-{ggrepel} — prevent overlapping text labels
-{ggridges} — geoms for ridgeline plots
-{ggsankey} — geoms for sankey diagrams
-{ggstream} — geoms for stream graphs
-{ggtext} — rich-text rendering
-{ggthemes} — additional themes, scales & geoms
-{hrbrthemes} — typography-centric, minimal themes
-{lemon} — axis & legend add-ons
-{patchwork} — combine ggplots to multi-panel graphics
-{rayshader} — hillshaded maps in 2D & 3D
-{systemfonts} — use custom fonts (replaces {extrafont} and {showtext})
+
+`{ggalt}` — alternative coords, geoms, stats & scales
+
+`{gganimate}` — create animations
+
+`{ggbump}` — geoms for bump charts
+
+`{ggforce}` — several interesting add-on features
+
+`{ggiraph}` — geoms for dynamic, interactive visualizations
+
+`{ggmaps}` — access to Google & Stamen maps
+
+`{ggplotly}` — create interactive plots
+
+`{ggraph}` — networks, graphs & trees
+
+`{ggrepel}` — prevent overlapping text labels
+
+`{ggridges}` — geoms for ridgeline plots
+
+`{ggsankey}` — geoms for sankey diagrams
+
+`{ggstream}` — geoms for stream graphs
+
+`{ggtext}` — rich-text rendering
+
+`{ggthemes}` — additional themes, scales & geoms
+
+`{hrbrthemes}` — typography-centric, minimal themes
+
+`{lemon}` — axis & legend add-ons
+
+`{patchwork}` — combine ggplots to multi-panel graphics
+
+`{rayshader}` — hillshaded maps in 2D & 3D
+
+`{systemfonts}` — use custom fonts (replaces {extrafont} and {showtext})
